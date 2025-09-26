@@ -1,0 +1,46 @@
+C:\Users\CENGİZHAN\Desktop\projelerim\Hastane_Proje\bin\Debug\Hastane_Proje.exe.config
+C:\Users\CENGİZHAN\Desktop\projelerim\Hastane_Proje\bin\Debug\Hastane_Proje.exe
+C:\Users\CENGİZHAN\Desktop\projelerim\Hastane_Proje\bin\Debug\Hastane_Proje.pdb
+C:\Users\CENGİZHAN\Desktop\projelerim\Hastane_Proje\obj\Debug\Hastane_Proje.csproj.AssemblyReference.cache
+C:\Users\CENGİZHAN\Desktop\projelerim\Hastane_Proje\obj\Debug\Hastane_Proje.frmBilgiDuzenle.resources
+C:\Users\CENGİZHAN\Desktop\projelerim\Hastane_Proje\obj\Debug\Hastane_Proje.frmBransEkle.resources
+C:\Users\CENGİZHAN\Desktop\projelerim\Hastane_Proje\obj\Debug\Hastane_Proje.frmDoktorBilgiDuzenle.resources
+C:\Users\CENGİZHAN\Desktop\projelerim\Hastane_Proje\obj\Debug\Hastane_Proje.frmDoktorEkle.resources
+C:\Users\CENGİZHAN\Desktop\projelerim\Hastane_Proje\obj\Debug\Hastane_Proje.frmDoktorGiris.resources
+C:\Users\CENGİZHAN\Desktop\projelerim\Hastane_Proje\obj\Debug\Hastane_Proje.frmDoktorPaneli.resources
+C:\Users\CENGİZHAN\Desktop\projelerim\Hastane_Proje\obj\Debug\Hastane_Proje.frmDuyurular.resources
+C:\Users\CENGİZHAN\Desktop\projelerim\Hastane_Proje\obj\Debug\Hastane_Proje.frmGirisler.resources
+C:\Users\CENGİZHAN\Desktop\projelerim\Hastane_Proje\obj\Debug\Hastane_Proje.frmHastaGirisPaneli.resources
+C:\Users\CENGİZHAN\Desktop\projelerim\Hastane_Proje\obj\Debug\Hastane_Proje.frmHastaPanel.resources
+C:\Users\CENGİZHAN\Desktop\projelerim\Hastane_Proje\obj\Debug\Hastane_Proje.frmKayıtOl.resources
+C:\Users\CENGİZHAN\Desktop\projelerim\Hastane_Proje\obj\Debug\Hastane_Proje.frmRandevuListesi.resources
+C:\Users\CENGİZHAN\Desktop\projelerim\Hastane_Proje\obj\Debug\Hastane_Proje.frmSekreterGiris.resources
+C:\Users\CENGİZHAN\Desktop\projelerim\Hastane_Proje\obj\Debug\Hastane_Proje.Properties.Resources.resources
+C:\Users\CENGİZHAN\Desktop\projelerim\Hastane_Proje\obj\Debug\Hastane_Proje.csproj.GenerateResource.cache
+C:\Users\CENGİZHAN\Desktop\projelerim\Hastane_Proje\obj\Debug\Hastane_Proje.csproj.CoreCompileInputs.cache
+C:\Users\CENGİZHAN\Desktop\projelerim\Hastane_Proje\obj\Debug\Hastane_Proje.exe
+C:\Users\CENGİZHAN\Desktop\projelerim\Hastane_Proje\obj\Debug\Hastane_Proje.pdb
+C:\Users\CENGİZHAN\Desktop\projelerim\Hastane_Proje\obj\Debug\Hastane_Proje.frmSekreterPanel.resources
+C:\Users\CENGİZHAN\Desktop\projelerim\c# projelerim(bitmiş)\Hastane_Proje\bin\Debug\Hastane_Proje.exe.config
+C:\Users\CENGİZHAN\Desktop\projelerim\c# projelerim(bitmiş)\Hastane_Proje\bin\Debug\Hastane_Proje.exe
+C:\Users\CENGİZHAN\Desktop\projelerim\c# projelerim(bitmiş)\Hastane_Proje\bin\Debug\Hastane_Proje.pdb
+C:\Users\CENGİZHAN\Desktop\projelerim\c# projelerim(bitmiş)\Hastane_Proje\obj\Debug\Hastane_Proje.csproj.AssemblyReference.cache
+C:\Users\CENGİZHAN\Desktop\projelerim\c# projelerim(bitmiş)\Hastane_Proje\obj\Debug\Hastane_Proje.frmBilgiDuzenle.resources
+C:\Users\CENGİZHAN\Desktop\projelerim\c# projelerim(bitmiş)\Hastane_Proje\obj\Debug\Hastane_Proje.frmBransEkle.resources
+C:\Users\CENGİZHAN\Desktop\projelerim\c# projelerim(bitmiş)\Hastane_Proje\obj\Debug\Hastane_Proje.frmDoktorBilgiDuzenle.resources
+C:\Users\CENGİZHAN\Desktop\projelerim\c# projelerim(bitmiş)\Hastane_Proje\obj\Debug\Hastane_Proje.frmDoktorEkle.resources
+C:\Users\CENGİZHAN\Desktop\projelerim\c# projelerim(bitmiş)\Hastane_Proje\obj\Debug\Hastane_Proje.frmDoktorGiris.resources
+C:\Users\CENGİZHAN\Desktop\projelerim\c# projelerim(bitmiş)\Hastane_Proje\obj\Debug\Hastane_Proje.frmDoktorPaneli.resources
+C:\Users\CENGİZHAN\Desktop\projelerim\c# projelerim(bitmiş)\Hastane_Proje\obj\Debug\Hastane_Proje.frmDuyurular.resources
+C:\Users\CENGİZHAN\Desktop\projelerim\c# projelerim(bitmiş)\Hastane_Proje\obj\Debug\Hastane_Proje.frmGirisler.resources
+C:\Users\CENGİZHAN\Desktop\projelerim\c# projelerim(bitmiş)\Hastane_Proje\obj\Debug\Hastane_Proje.frmHastaGirisPaneli.resources
+C:\Users\CENGİZHAN\Desktop\projelerim\c# projelerim(bitmiş)\Hastane_Proje\obj\Debug\Hastane_Proje.frmHastaPanel.resources
+C:\Users\CENGİZHAN\Desktop\projelerim\c# projelerim(bitmiş)\Hastane_Proje\obj\Debug\Hastane_Proje.frmKayıtOl.resources
+C:\Users\CENGİZHAN\Desktop\projelerim\c# projelerim(bitmiş)\Hastane_Proje\obj\Debug\Hastane_Proje.frmRandevuListesi.resources
+C:\Users\CENGİZHAN\Desktop\projelerim\c# projelerim(bitmiş)\Hastane_Proje\obj\Debug\Hastane_Proje.frmSekreterGiris.resources
+C:\Users\CENGİZHAN\Desktop\projelerim\c# projelerim(bitmiş)\Hastane_Proje\obj\Debug\Hastane_Proje.Properties.Resources.resources
+C:\Users\CENGİZHAN\Desktop\projelerim\c# projelerim(bitmiş)\Hastane_Proje\obj\Debug\Hastane_Proje.frmSekreterPanel.resources
+C:\Users\CENGİZHAN\Desktop\projelerim\c# projelerim(bitmiş)\Hastane_Proje\obj\Debug\Hastane_Proje.csproj.GenerateResource.cache
+C:\Users\CENGİZHAN\Desktop\projelerim\c# projelerim(bitmiş)\Hastane_Proje\obj\Debug\Hastane_Proje.csproj.CoreCompileInputs.cache
+C:\Users\CENGİZHAN\Desktop\projelerim\c# projelerim(bitmiş)\Hastane_Proje\obj\Debug\Hastane_Proje.exe
+C:\Users\CENGİZHAN\Desktop\projelerim\c# projelerim(bitmiş)\Hastane_Proje\obj\Debug\Hastane_Proje.pdb
